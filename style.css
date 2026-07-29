@@ -1,0 +1,174 @@
+/* *{
+    color: pink;
+} */
+
+/* h1{
+    color: rgb(84, 248, 43);
+}
+p{
+    color: blue;
+}
+button{
+    color: rgb(8, 8, 8);
+    background-color: aqua;
+}
+body{
+    background-color:#F54927;
+} */
+ /* #button {
+    color: green;
+ } */
+/* #box{
+   background-color: blue;
+   color: white;
+}
+.heading{
+    color:red;
+}
+button{
+    background-color: green;
+    color : black ; 
+}
+#paragraph{
+
+    text-align: center;
+}
+#id1{
+    text-align: center;
+    text-decoration: wavy underline;
+    font-weight:normal;
+/* }
+#id2 {
+    font-weight: lighter;
+}
+#id4{
+    font-weight: 300;
+} 
+/* start means left and end means right */
+/* mdn web doc for css */
+/* a{
+    text-decoration: none;
+}
+#two{
+    text-align: center;
+    font-family: Arial;
+    font-weight: lighter;
+    line-height: 30px; 
+    text-transform: capitalize; */
+
+
+/* fall back machenisim */
+/* unit in css */
+/* absolute units  relativ units*/
+
+/* 96px=1 inch = 2.54cm
+
+/* also can be normal */
+/* #four{
+  font-size: 30px;
+}
+#five{
+    font-size: 16;
+}
+#six{
+font-size: 10;
+}
+/* text-transform: capitalize /lowercase/ none/ uppercase; */
+/* #new{
+    text-align: center;
+    text-transform: capitalize;
+} */ 
+
+/* #outer{
+        font-size: 25px;
+}
+#inner{
+    font-size: 90px;
+    text-align: center;
+    height: 100px;
+    background-color: pink;
+    width: 500px;
+    border-width: 7px;
+    border-style: dashed;
+    border-color: blue;
+    /* border: 3px dashed pink; */
+
+
+/* #one{
+    height: 200px;
+    background-color: pink;
+    width: 200px;
+    border-width: 7px;
+    border-style: solid;
+    border-color: blue;
+     border-radius: 30px;
+}
+#two{
+    height: 200px;
+    background-color: pink;
+    width: 200px;
+    border-width: 7px;
+    border-style: solid;
+    border-color: blue;
+     border-radius: 30px;
+     margin-top:30px;
+
+}
+#three{
+    height: 200px;
+    background-color: pink;
+    width: 200px;
+    border-width: 7px;
+    border-style:solid;
+    border-color: blue;
+    border-radius: 20px;
+    padding-left: 25px;
+    /* padding-right: 25px; */
+    /* padding-top: 25px; */
+    /* font-size: 15px;
+    margin-top: 30px;
+    margin-bottom: 10px;
+} */ 
+
+ *{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+    font-family:Arial, sans-serif;
+}
+
+body{
+    background:#f5f5f5;
+}
+
+/* Navbar */
+.navbar{
+    display:flex;
+    justify-content:space-between;
+    align-items:center;
+    padding:18px 8%;
+    background:#111827;
+}
+
+.logo{
+    color:#fff;
+    font-size:28px;
+    font-weight:bold;
+}
+
+.nav-links{
+    display:flex;
+    list-style:none;
+    gap:30px;
+}
+
+.nav-links a{
+    text-decoration:none;
+    color:#fff;
+    font-size:16px;
+    transition:0.3s;
+}
+
+.nav-links a:hover{
+    color:#3B82F6;
+}
